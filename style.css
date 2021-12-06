@@ -1,0 +1,16 @@
+
+.card{
+    background:linear-gradient(to bottom left , rgb(15, 216, 243) , rgb(216, 12, 216) );
+}
+body{
+    
+        background-image: url('backpurple.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;  
+        background-size: cover;
+   
+}
+.box{
+    background:linear-gradient(to bottom left , rgb(15, 216, 243) , rgb(216, 12, 216) );
+    margin-top: 100px;
+}
